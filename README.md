@@ -1,6 +1,6 @@
 # Publig Mídias
 Repositório destinado para o site da <b>Publig Mídias Alternativas</b><br>
-Acesse: http://www.publig.com.br/ <br>
+Acesse em: http://www.publig.com.br/ <br>
 
 <b>Site principal:</b><br><br>
 ![Publig Mídias](http://www.publig.com.br/assets/img/publig02.jpg "Optional title")
